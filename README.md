@@ -1,4 +1,5 @@
 <h1 align="center"> Flutter Calendar Strip </h1>
+<h2 align="center"> Forked to make it compatible with Flutter 2.0.4</h2>
 <div align="center">
   <strong> Easy to use and beautiful calendar strip component for Flutter.</strong>
   <b> Awesome celender widget </b>
@@ -21,7 +22,8 @@
 ```text
 dependencies:
           ...
-          calendar_strip: ^1.0.6
+          calendar_strip:
+            git: git@github.com:procodingtools/flutter_calendar_strip.git
 ```
 
 ## Usage Example
